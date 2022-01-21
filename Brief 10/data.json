@@ -1,0 +1,317 @@
+[
+    {
+        "id" : 420,
+        "product" : "Scania R420 Highline",
+        "price" : 990000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+    {
+        "id" : 460,
+        "product" : "RENAULT T460 Range",
+        "price" : 890000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "RENAULT TRUCKS ™",
+            "adress" : "N1, Casablanca 20250"
+        }
+    },
+    {
+        "id" : 440,
+        "product" : "Volvo FMX 440 Heavy Duty",
+        "price" : 9500000,
+        "category" : "Dumper Truck",
+        "Availabilty" : [
+                "Tangier"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Volvo™",
+            "adress" : "Lot 19 Z.I, Rue Gzenaya, Tanger 90102"
+        }
+    },
+    {
+        "id" : 410,
+        "product" : "MAN TGS 48.410 10x4",
+        "price" : 8900000,
+        "category" : "Dumper Truck",
+        "Availabilty" : [
+                  "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "MAN",
+            "adress" : "Blv Chefchaouni ,n97 Casablanca"
+        }
+    },
+    {
+        "id" : 460,
+        "product" : "DAF XF 106 460",
+        "price" : 9900000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ],
+
+        "Provider" : {
+            "provider" : "DAF™",
+            "adress" : "Route D'El Jadida, Casablanca 20100"
+        }
+    },
+    {
+        "id" : 480,
+        "product" : "Scania R480 Streamline",
+        "price" : 1000000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+
+    {
+        "id" : 540,
+        "product" : "Volvo FH16 540 Euro 5",
+        "price" : 1150000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Volvo™",
+            "adress" : "Lot 19 Z.I, Rue Gzenaya, Tanger 90102"
+        }
+    },
+    {
+        "id" : 500,
+        "product" : "Scania G500 XT",
+        "price" : 1200000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+    {
+        "id" : 510,
+        "product" : "DAF XF 105 510 Special Edition",
+        "price" : 1200000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "DAF™",
+            "adress" : "Route D'El Jadida, Casablanca 20100"
+        }
+    },
+    {
+        "id" : 530,
+        "product" : "MAN TGX 530",
+        "price" : 1150000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                  "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "MAN",
+            "adress" : "Blv Chefchaouni ,n97 Casablanca"
+        }
+    },
+    {
+        "id" : 520,
+        "product" : "Scania R520 V8 Next-Gen",
+        "price" : 1350000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+    {
+        "id" : 530,
+        "product" : "DAF XF 106 530 Euro6",
+        "price" : 1350000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Agadir",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "DAF™",
+            "adress" : "Route D'El Jadida, Casablanca 20100"
+        }
+    },
+    {
+        "id" : 560,
+        "product" : "Scania S560 V8 Next-Gen",
+        "price" : 1390000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ],
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+    },
+    {
+        "id" : 550,
+        "product" : "Iveco Stralis 550 Hi-Way",
+        "price" : 1300000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ],
+
+        "Provider" : {
+            "provider" : "Iveco",
+            "adress" : "Rte de Rabat, Casablanca 20250"
+        }
+    },
+    {
+        "id" : 570,
+        "product" : "Iveco Stralis XP",
+        "price" : 1400000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ],
+
+        "Provider" : {
+            "provider" : "Iveco",
+            "adress" : "Rte de Rabat, Casablanca 20250"
+        }
+    },
+    {
+        "id" : 580,
+        "product" : "Scania S580 V8",
+        "price" : 1590000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+    {
+        "id" : 680,
+        "product" : "MAN TGX 680 TGX Limited Edition",
+        "price" : 17900000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                  "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "MAN",
+            "adress" : "Blv Chefchaouni ,n97 Casablanca"
+        }
+    },
+    {
+        "id" : 730,
+        "product" : "Scania R730 V8",
+        "price" : 1890000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    },
+    {
+        "id" : 750,
+        "product" : "Volvo FH16 750 Euro 6",
+        "price" : 2000000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Tangier",
+                "Rabat",
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Volvo™",
+            "adress" : "Lot 19 Z.I, Rue Gzenaya, Tanger 90102"
+        }
+    },
+    {
+        "id" : 770,
+        "product" : "Scania S770 V8",
+        "price" : 2090000,
+        "category" : "Tractorhead",
+        "Availabilty" : [
+                "Casablanca"
+            ] ,
+
+        "Provider" : {
+            "provider" : "Scania™",
+            "adress" : "Autoroute Casa-Rabat km 14 Casablanca, Casablanca 20000"
+        }
+        
+    }
+    
+]

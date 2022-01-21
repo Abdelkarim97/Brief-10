@@ -1,0 +1,42 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    list-style: none;
+}
+#searchbar{
+    border: solid;
+    border-radius: 0%;
+    width: 400px;
+    height: 40px;
+
+}
+.navbar{
+    background-color: #212662;
+}
+#logo{
+    padding-right: 100px;
+    margin-bottom: 5px;
+}
+.container{
+    margin-left: 20px;
+}
+.nav-link{
+    font-weight: 700;
+    font-size: 22px;
+    
+}
+.img-fluid{
+    margin-left: 320px;
+}
+.display-4{
+    font-weight: 600;
+}
+#hero{
+    background-color: #DFDFDF;
+}
+#text{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+
